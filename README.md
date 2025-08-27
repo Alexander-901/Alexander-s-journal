@@ -1,6 +1,2 @@
 # Alexander-s-journal
-:p
-cool
-what now?
-idk
-you made it
+so I don't know what im doing, I'm trying to make a journal md
