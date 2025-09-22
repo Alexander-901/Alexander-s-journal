@@ -9,3 +9,6 @@ A career path I'm interested in is animating and I know very well computer scien
 # September 15, 2025
 Prompt: Presidential AI Challenge use.
 A way to use AI for the presidential AI Challenge is to watch the streets better. We can add cameras ontop of traffic lights to monitor speed, responsible driving, and if they pass a red light or not. We can give the AI photos and videos of the right and wrongs of how one should drive. An example can be running a red light, with most being reported for passing but if the AI recognizes the car is an ambulance or police and an emergancy is happening, it will keep track of the event. This idea can help people feel safer on streets as reckless drivers will be punished for their actions. This idea can also be expanded upon by giving plate numbers of criminals to the AI so when the plate number is spotted, the AI can report it to the police. It could be possible to have this idea go in action as all that is needed is a camera, a network, and the trained AI.
+# September 22, 2025
+Do you think working in a virtual store for real money is a good idea or a bad idea for the future of jobs? Why?
+I belive that working in a game for real money is a horrible idea. It's bad because of the platform, the experience, and the reward. In recent events, controvesy has been stiring, giving a bad reputation to 
