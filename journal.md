@@ -15,3 +15,6 @@ I belive that working in a game for real money is a horrible idea. It's bad beca
 # September 30, 2025
 Prompt: in 67 words, write about the phrase "6 7" and its repeated use in school.
 The phrase "6 7" came from the minds of the melted. From a kid in a basketball game, it became popular as it was another "funny thing" at a time of brainrot and stupidity. It became popular in social media, making it popular quickly and everywhere. It's only said because of popularity, not because it is funny. In reality, it's unfunny. It pains me writing all this.
+# October 6, 2025
+Prompt: If you were in charge of your school, what would your technology and AI policy be?
+AI makes work easy by giving you the answer, which is cheating. If I were in charge of the school, AI would be heavily monitored. Technology like phones can be allowed, but only when work is done, like a reward for completing your work. Online games, just like AI, will be monitored for kids with missing work or if they're done. My main goal if i were in charge of the school would be to be more lienient to students that do their work but crack down on students that do nothing and still use their phones. My rules I said here are similar to the Texas phone law but allows phones during lunch.
