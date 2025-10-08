@@ -20,3 +20,5 @@ Prompt: If you were in charge of your school, what would your technology and AI 
 AI makes work easy by giving you the answer, which is cheating. If I were in charge of the school, AI would be heavily monitored. Technology like phones can be allowed, but only when work is done, like a reward for completing your work. Online games, just like AI, will be monitored for kids with missing work or if they're done. My main goal if i were in charge of the school would be to be more lienient to students that do their work but crack down on students that do nothing and still use their phones. My rules I said here are similar to the Texas phone law but allows phones during lunch.
 # October 7, 2025
 Completed the CodeCombat activity that was given in HourOfCode.
+# October 8, 2025
+A lot of things were blocked so I did flappy bird
