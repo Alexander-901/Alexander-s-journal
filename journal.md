@@ -26,3 +26,8 @@ A lot of things were blocked so I did flappy bird
 Write a detailed prompt for Canva AI that tells it exactly what to make
 https://www.canva.com/design/DAG1x4y44Hg?ui=eyJLIjp7IkEiOiJkMjRhMmZlYy00ZmUzLTQwYTAtOThlYi0yZDMyZDBmZDY4NmIifX0
 The prompt I wrote in was meant to show examples of coding, specific lines of code and what they do. I hoped that the AI would have thought the same way. However the result I got felt empty. The photo examples weren't great as the words were jumbled, it couldn't explain the examples that it brought up itself, and it didn't even explain subjects fully. The AI left out much interaction as there wasn't anything to interact with or even say about the slides.I couldv'e added more detail but I would guess it would either overhelm the AI or the previous issues would remain in the rewrite.
+# October 20, 2025
+Name	  |  Class  |Seat
+Franklin|	second  | 91A
+Hardeep	| third   | 61F
+Marla		| first   | 35B
